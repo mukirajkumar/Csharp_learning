@@ -1,0 +1,14 @@
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\Muki\Desktop\c#_learning\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

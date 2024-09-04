@@ -1,0 +1,14 @@
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\bin\Debug\net8.0\MadLIbs.exe
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\bin\Debug\net8.0\MadLIbs.deps.json
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\bin\Debug\net8.0\MadLIbs.runtimeconfig.json
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\bin\Debug\net8.0\MadLIbs.dll
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\bin\Debug\net8.0\MadLIbs.pdb
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.AssemblyInfoInputs.cache
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.AssemblyInfo.cs
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.csproj.CoreCompileInputs.cache
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.dll
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\refint\MadLIbs.dll
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.pdb
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\MadLIbs.genruntimeconfig.cache
+C:\Users\Muki\Desktop\c#_learning\MadLIbs\MadLIbs\obj\Debug\net8.0\ref\MadLIbs.dll
